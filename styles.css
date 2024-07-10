@@ -335,3 +335,34 @@ input[type="submit"]{
 
 
 }
+
+
+
+
+.foot{ 
+    display: flex;
+    justify-content: space-between;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    height: 100px;
+
+}
+
+
+
+#end h4{
+
+    
+    margin-top: 50px;
+    margin-left: 50px;
+    
+
+}
+
+.social-media{
+    margin-top: 40px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: right;
+    gap: 30px;
+}
